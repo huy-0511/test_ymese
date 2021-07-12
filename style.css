@@ -1,0 +1,55 @@
+
+.logo_before{
+	border: 1px solid;
+    width: 517px;
+    height: 307px;
+    background-image: url(image/image1.jpg);
+    text-align: center;
+    position: relative;
+    border-radius: 13px;
+}
+.logo_before img{
+    width: 50%;
+    position: absolute;
+    top: 112px;
+    left: 116px;
+}
+.logo_before p{
+    color: black;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;
+    bottom: 0;
+    left: 169px
+}
+
+.logo_after{
+    border: 1px solid;
+    width: 517px;
+    height: 307px;
+    background-image: url(image/image1.jpg);
+    border-radius: 13px;
+    color: white;
+    margin-top: 24px;
+}
+.logo_after .content{
+    margin-left: 22px;
+    margin-top: 72px;
+}
+.logo_after .content ul{
+    list-style: none;
+}
+.content .a img{
+    margin-right: 11px;
+    float: left;
+    width: 24px;
+}
+.logo_after .content h1{
+    margin-bottom: 0px;
+    font-family: -webkit-pictograph;
+}
+.logo_after .content h3{
+    margin-top: 0px;
+    font-size: 11px;
+    color: #FF4500;
+}
